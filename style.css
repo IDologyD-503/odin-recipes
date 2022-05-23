@@ -1,0 +1,27 @@
+.life {
+    float:right;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    background-color: black;
+    color: whitesmoke;
+    margin-left: 9.3cm;
+
+}
+.list  {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    margin-top: 205px;
+    margin-right: 25cm;
+
+}
+a {
+   color: whitesmoke;
+    text-decoration: none;
+}

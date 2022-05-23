@@ -1,0 +1,17 @@
+h1 {
+    text-transform: capitalize;
+    font-weight: bolder;
+    background-color: rgba(106, 136, 96, 0.479);
+    padding-left: 175px; 
+    margin-right: 22.1cm;
+    color: rgb(109, 126, 16);
+
+}
+.stock {
+    float: left;
+    width: 600px;
+}
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
