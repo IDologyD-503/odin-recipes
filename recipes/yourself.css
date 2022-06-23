@@ -1,17 +1,86 @@
+*{
+    padding: 0cm;
+    margin: 0cm;
+}
 h1 {
     text-transform: capitalize;
     font-weight: bolder;
     background-color: rgba(106, 136, 96, 0.479);
     padding-left: 175px; 
-    margin-right: 22.1cm;
+    margin-right: 22.8cm;
+    margin-left: .17cm;
     color: rgb(109, 126, 16);
+    font-size: .7cm;
+    padding-top: .2cm;
+    padding-bottom: .2cm;
+
 
 }
-.stock {
-    float: left;
-    width: 600px;
-}
-h3 {
+h3
+ {
     text-transform: uppercase;
+    background-color: rgb(77, 56, 54);
     text-align: center;
+    color: rgb(137, 226, 85);
+    font-size: .5cm;
+    margin-left: 13.4cm;
+    padding: 0%;
+    padding-top: .1cm;
+}
+.stock {
+    float: left;    
+    width: 600px;
+    padding-left: .17cm;
+    margin: auto;
+}
+
+.steps{
+    text-align: center;
+    font-size: .55cm;
+    margin: auto;
+    margin-left: .17cm;
+}
+.des
+{
+    background-color: rgb(77, 56, 54);
+    font-size: 0.5cm;
+    font-weight: bold;
+    color: antiquewhite;
+    padding: 0%;
+    margin-top: auto;
+    margin-bottom: .1cm;
+    margin-left: 13.4cm;
+    padding-bottom: .1cm;
+}
+.ing {
+    background-color: rgb(77, 56, 54);
+    font-size: 0.5cm;
+    font-weight: bold;
+    color: antiquewhite;
+    padding: 0%;
+    margin-top: auto;
+    margin-bottom: .1cm;
+    padding-bottom: .1cm;
+    margin-left: 13.4cm;
+}
+.ste {
+    background-color: rgb(77, 56, 54);
+    font-size: 0.5cm;
+    font-weight: bold;
+    color: antiquewhite;
+    padding: 0%;
+    margin-top: auto;
+    margin-bottom: .1cm;
+    padding-bottom: .1cm;
+    margin-left: .17cm; 
+    padding-left: .7cm;
+}
+a {
+    text-decoration: none;
+    color: rgb(137, 226, 85);
+    font-weight: bold;
+}
+.but{
+    background-color: rgb(77, 56, 54);
+    margin-left: .17cm;
 }
